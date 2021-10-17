@@ -1,4 +1,7 @@
-#pongImg {
-    width: 500px;
-    max-width: 50%;
-}       
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
